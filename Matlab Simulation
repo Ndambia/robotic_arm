@@ -1,0 +1,2 @@
+This are the trajectory matlab files used for the 5 DOF robotic Arm
+Octave was used linked with arduino via the serial port to control the motors  
